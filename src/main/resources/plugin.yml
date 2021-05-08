@@ -1,0 +1,9 @@
+name: Hyperion
+main: net.skillcode.hyperion.Hyperion
+version: 1.0
+author: SkillCode
+commands:
+  hyperion:
+    aliases:
+      - hyp
+      - gethyperion
