@@ -53,7 +53,7 @@ public class MainConfig extends Configurable {
         list.add(new Pair<>(PLAY_SOUND, true));
         list.add(new Pair<>(PLAY_EFFECT, true));
         list.add(new Pair<>(EXCLUDED_ENTITY_TYPES, new ArrayList<>(Arrays.asList("PLAYER", "ARMOR_STAND"))));
-        list.add(new Pair<>(ITEM_NAME, "&dWithered Hyperion &6✪✪✪✪✪"));
+        list.add(new Pair<>(ITEM_NAME, "&dWithered Hyperion &c✪✪✪✪&6✪"));
         list.add(new Pair<>(ITEM_LORE, new ArrayList<>(Arrays.asList(
                 "&7Gear Score: &d1102 &8(3189)",
                 "&7Damage: &c+317 &e(+30) &8(+1,008.06)",
@@ -71,11 +71,11 @@ public class MainConfig extends Configurable {
                 "&9Scavenger IV, Experience IV, Thunderlord VI",
                 "&9Telekinesis I, Vicious V",
                 " ",
-                "&9⬧ Lightning Rune III",
-                "&8Requires level 19",
+                "&b⬧ Music Rune",
+                "&8Requires level 15",
                 " ",
                 "&7Deals +&c50% &7damage to",
-                "&7Withers. Grants &c+1 ❂ Damage",
+                "&7Withers. Grants &c+1 ❁ Damage",
                 "&7and &a+2 &b✎ Intelligence",
                 "&7per &cCatacombs &7level.",
                 " ",
@@ -91,10 +91,10 @@ public class MainConfig extends Configurable {
                 "&7damage taken and granting an",
                 "&7absorption shield for &e5",
                 "&7seconds.",
-                "&8Mana cost: &3300",
+                "&8Mana Cost: &3300",
                 " ",
                 "&9Withered Bonus",
-                "&7Grants &a+1 &c❂ Strength &7per",
+                "&7Grants &a+1 &c❁ Strength &7per",
                 "&cCatacombs &7level.",
                 " ",
                 "&d&l&kA&a &d&lMYTHIC DUNGEON SWORD &kA"
